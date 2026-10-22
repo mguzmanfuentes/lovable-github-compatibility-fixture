@@ -1,0 +1,1 @@
+Disposable synthetic PR-flow probe for branch ruleset enforcement. No HubMed source, PHI, or secrets.
