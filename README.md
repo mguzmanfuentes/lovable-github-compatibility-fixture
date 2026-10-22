@@ -1,0 +1,1 @@
+# lovable-github-compatibility-fixture
